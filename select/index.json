@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "REVENGE",
+  "base_artist": "Pxrge Trxxxper",
+  "createdAt": "2026-03-08T05:55:25.721263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Revenge",
+      "artist": "John Prine",
+      "has_synced": false,
+      "path": "select/01_Sweet_Revenge_John_Prine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honey Revenge",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Honey_Revenge_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Revenge",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/03_Sweet_Revenge_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Roman's Revenge",
+      "artist": "Nicki Minaj feat. Eminem",
+      "has_synced": true,
+      "path": "select/04_Roman's_Revenge_Nicki_Minaj_feat._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Roman's Revenge (feat. Eminem)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/05_Roman's_Revenge_(feat._Eminem)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Revenge",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/06_Revenge_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dial : Revenge",
+      "artist": "Mogwai",
+      "has_synced": true,
+      "path": "select/07_Dial___Revenge_Mogwai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Frances Farmer Will Have Her Revenge On Seattle",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/08_Frances_Farmer_Will_Have_Her_Revenge_On_Seattle_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Frances Farmer Will Have Her Revenge On Seattle - 2013 Mix",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/09_Frances_Farmer_Will_Have_Her_Revenge_On_Seattle_-_2013_Mix_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breaker's Revenge (Freestylers B-Boy Mix)",
+      "artist": "Arthur Baker",
+      "has_synced": false,
+      "path": "select/10_Breaker's_Revenge_(Freestylers_B-Boy_Mix)_Arthur_Baker.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Best Revenge (AutoKratz Righteous Retribution Mix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/11_The_Best_Revenge_(AutoKratz_Righteous_Retribution_Mix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flames of Revenge",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/12_Flames_of_Revenge_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flames of Revenge",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/13_Flames_of_Revenge_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breaker's Revenge",
+      "artist": "Arthur Baker",
+      "has_synced": false,
+      "path": "select/14_Breaker's_Revenge_Arthur_Baker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kasparov's Revenge",
+      "artist": "Lo Fidelity Allstars",
+      "has_synced": true,
+      "path": "select/15_Kasparov's_Revenge_Lo_Fidelity_Allstars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REVENGE",
+      "artist": "Pxrge Trxxxper",
+      "has_synced": false,
+      "path": "select/pl_01_REVENGE_Pxrge_Trxxxper.txt"
+    }
+  ]
+}
